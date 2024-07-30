@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1722043756 source:c:\users\user\documents\files code\task(4) codsoft tic tac toe\main.cpp
+	<iostream>
+	<string>
+	<limits>
+	<sstream>
+
